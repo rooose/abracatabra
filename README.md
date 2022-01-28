@@ -24,9 +24,9 @@ DONE:
 - [x] Blur all visible phone numbers and IDs from the pictures
 
 TODO:
-- [] Make cataset available in a different repository
-- [] Write a description of cataset
-- [] App Mockups
+- [ ] Make cataset available in a different repository
+- [ ] Write a description of cataset
+- [ ] App Mockups
 
 App Completion Percentage: 0 %
 
